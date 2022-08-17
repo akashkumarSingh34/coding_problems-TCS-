@@ -3,12 +3,10 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-int avg(vector<int> arr) {
+double avg(vector<int> arr) {
 	double sum = 0;
-	for (int i = 0; i < arr.size(); i++) {
+	for (int i = 0; i < arr.size(); i++) 
 		sum += (double)arr[i];
-	}
-	double average = sum / n;
-	cout << "The average is "<<average;
+	return sum / arr.size();
 
 }
