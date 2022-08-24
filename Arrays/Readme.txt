@@ -8,7 +8,7 @@
 
 9
 10
-11
+11 ---> set<datatype> variablename;  OR 2 pointer approach
 12
 13
 14
