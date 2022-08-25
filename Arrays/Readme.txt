@@ -9,7 +9,7 @@
 9
 10
 11 ---> set<datatype> variablename;  OR 2 pointer approach
-12
+12 ---> maps<int,int>
 13
 14
 15
